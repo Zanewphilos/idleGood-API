@@ -1,0 +1,6 @@
+@idleGood_WebAPI_HostAddress = http://localhost:7012
+
+GET {{idleGood_WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
